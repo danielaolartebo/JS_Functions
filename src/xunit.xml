@@ -1,0 +1,83 @@
+<assemblies timestamp="10/23/2024, 2:51:45 PM">
+	<assembly name="/Users/danielaolarte/Downloads/ETAM/functions/src" config-file="/Users/danielaolarte/Downloads/ETAM/functions/src/jest.config.js" test-framework="Jest" environment="darwin arm64" run-date="10/23/2024" run-time="2:51:45 PM" time="0.823" total="19" passed="19" failed="0" skipped="0" errors="0">
+		<errors/>
+		<collection name="/Users/danielaolarte/Downloads/ETAM/functions/src/index.test.js" time="0.776" total="19" passed="19" failed="0" skipped="0">
+			<test name="should return 0.94 for given input 4" type="Object Type sumSequence" method="Test" time="0.055" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return 0.98 for given input 6" type="Object Type sumSequence" method="Test" time="0.009" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return array [1, 2, 3, 5, 6, 9] for given input ([1,2,3],[5,6],[9])" type="Object Type mergeArrays" method="Test" time="0.008" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return array [1, 2, 3, 5, 6] for given input ([1,2,3],[5,6])" type="Object Type mergeArrays" method="Test" time="0.01" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return array []" type="Object Type mergeArrays" method="Test" time="0.007" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return true for given input &apos;abab&apos;" type="Object Type isPalindrome" method="Test" time="0.007" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return true for given input &apos;ababa&apos;" type="Object Type isPalindrome" method="Test" time="0.006" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return false for given input &apos;ab&apos;" type="Object Type isPalindrome" method="Test" time="0.006" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return false for given input &apos;abc&apos;" type="Object Type isPalindrome" method="Test" time="0.007" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return object {a: 4, b: 3} for given input &apos;abababa&apos;" type="Object Type countLetters" method="Test" time="0.006" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return object {a: 1, s: 2, d: 3, f: 4} for given input &apos;asdf sdf df f&apos;" type="Object Type countLetters" method="Test" time="0.01" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return object {} for given input &apos;&apos;" type="Object Type countLetters" method="Test" time="0.007" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return array [[1,2],[3,4],[5]] for given input ([1, 2, 3, 4, 5], 2)" type="Object Type divideArrays" method="Test" time="0.008" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return array [[1,2,3,4,5]] for given input ([1, 2, 3, 4, 5], 8)" type="Object Type divideArrays" method="Test" time="0.006" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return [] for given input ([1, 2, 3, 4, 5], -1)" type="Object Type divideArrays" method="Test" time="0.008" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return CRKQFLK for given input (&apos;FUNCTION&apos;, 3)" type="Object Type encrypt" method="Test" time="0.007" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return HYTYQAPNR for given input (&apos;JAVASCRIPT&apos;,2)" type="Object Type encrypt" method="Test" time="0.008" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return HELLO for given input (&apos;HELLO&apos;, 0)" type="Object Type encrypt" method="Test" time="0.006" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should return HELLO for given input (&apos;HELLO&apos;, -4)" type="Object Type encrypt" method="Test" time="0.006" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+		</collection>
+	</assembly>
+</assemblies>

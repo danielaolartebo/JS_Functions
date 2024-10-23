@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="junit test results" tests="19" failures="0" errors="0" time="0.791">
+  <testsuite name="Object Type" errors="0" failures="0" skipped="0" timestamp="2024-10-23T19:32:49" time="0.738" tests="19">
+    <testcase classname="Object Type sumSequence should return 0.94 for given input 4" name="Object Type sumSequence should return 0.94 for given input 4" time="0.051">
+    </testcase>
+    <testcase classname="Object Type sumSequence should return 0.98 for given input 6" name="Object Type sumSequence should return 0.98 for given input 6" time="0.009">
+    </testcase>
+    <testcase classname="Object Type mergeArrays should return array [1, 2, 3, 5, 6, 9] for given input ([1,2,3],[5,6],[9])" name="Object Type mergeArrays should return array [1, 2, 3, 5, 6, 9] for given input ([1,2,3],[5,6],[9])" time="0.009">
+    </testcase>
+    <testcase classname="Object Type mergeArrays should return array [1, 2, 3, 5, 6] for given input ([1,2,3],[5,6])" name="Object Type mergeArrays should return array [1, 2, 3, 5, 6] for given input ([1,2,3],[5,6])" time="0.008">
+    </testcase>
+    <testcase classname="Object Type mergeArrays should return array []" name="Object Type mergeArrays should return array []" time="0.007">
+    </testcase>
+    <testcase classname="Object Type isPalindrome should return true for given input &apos;abab&apos;" name="Object Type isPalindrome should return true for given input &apos;abab&apos;" time="0.007">
+    </testcase>
+    <testcase classname="Object Type isPalindrome should return true for given input &apos;ababa&apos;" name="Object Type isPalindrome should return true for given input &apos;ababa&apos;" time="0.006">
+    </testcase>
+    <testcase classname="Object Type isPalindrome should return false for given input &apos;ab&apos;" name="Object Type isPalindrome should return false for given input &apos;ab&apos;" time="0.006">
+    </testcase>
+    <testcase classname="Object Type isPalindrome should return false for given input &apos;abc&apos;" name="Object Type isPalindrome should return false for given input &apos;abc&apos;" time="0.009">
+    </testcase>
+    <testcase classname="Object Type countLetters should return object {a: 4, b: 3} for given input &apos;abababa&apos;" name="Object Type countLetters should return object {a: 4, b: 3} for given input &apos;abababa&apos;" time="0.007">
+    </testcase>
+    <testcase classname="Object Type countLetters should return object {a: 1, s: 2, d: 3, f: 4} for given input &apos;asdf sdf df f&apos;" name="Object Type countLetters should return object {a: 1, s: 2, d: 3, f: 4} for given input &apos;asdf sdf df f&apos;" time="0.006">
+    </testcase>
+    <testcase classname="Object Type countLetters should return object {} for given input &apos;&apos;" name="Object Type countLetters should return object {} for given input &apos;&apos;" time="0.006">
+    </testcase>
+    <testcase classname="Object Type divideArrays should return array [[1,2],[3,4],[5]] for given input ([1, 2, 3, 4, 5], 2)" name="Object Type divideArrays should return array [[1,2],[3,4],[5]] for given input ([1, 2, 3, 4, 5], 2)" time="0.006">
+    </testcase>
+    <testcase classname="Object Type divideArrays should return array [[1,2,3,4,5]] for given input ([1, 2, 3, 4, 5], 8)" name="Object Type divideArrays should return array [[1,2,3,4,5]] for given input ([1, 2, 3, 4, 5], 8)" time="0.008">
+    </testcase>
+    <testcase classname="Object Type divideArrays should return [] for given input ([1, 2, 3, 4, 5], -1)" name="Object Type divideArrays should return [] for given input ([1, 2, 3, 4, 5], -1)" time="0.006">
+    </testcase>
+    <testcase classname="Object Type encrypt should return CRKQFLK for given input (&apos;FUNCTION&apos;, 3)" name="Object Type encrypt should return CRKQFLK for given input (&apos;FUNCTION&apos;, 3)" time="0.006">
+    </testcase>
+    <testcase classname="Object Type encrypt should return HYTYQAPNR for given input (&apos;JAVASCRIPT&apos;,2)" name="Object Type encrypt should return HYTYQAPNR for given input (&apos;JAVASCRIPT&apos;,2)" time="0.006">
+    </testcase>
+    <testcase classname="Object Type encrypt should return HELLO for given input (&apos;HELLO&apos;, 0)" name="Object Type encrypt should return HELLO for given input (&apos;HELLO&apos;, 0)" time="0.006">
+    </testcase>
+    <testcase classname="Object Type encrypt should return HELLO for given input (&apos;HELLO&apos;, -4)" name="Object Type encrypt should return HELLO for given input (&apos;HELLO&apos;, -4)" time="0.006">
+    </testcase>
+  </testsuite>
+</testsuites>
